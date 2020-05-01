@@ -1,4 +1,6 @@
-# How to setup this project
+# JWT Authentication Sapper Template
+
+## How to setup this project
 
 Create a directory, for example `sapper-app`
 
@@ -19,10 +21,6 @@ Start development
 npm run dev
 ```
 
-Generate production build (client side)
-```
-npm run export
-```
 
 
 
